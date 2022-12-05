@@ -9,20 +9,8 @@ fn main() {
     let rounds = contents.split("\n");
     let str_vec: Vec<&str> = rounds.collect();
 
-    // let mut count = 0;
     let mut final_score = 0;
     for r in str_vec {
-        // count += 1;
-        // if count > 10 {
-        //     std::process::abort();
-        // }
-
-        println!(
-            "\n{}, {}",
-            r.chars().nth(0).unwrap(),
-            r.chars().nth(2).unwrap()
-        );
-
         let pov_choice = r.chars().nth(2).unwrap();
         let elf_choice = r.chars().nth(0).unwrap();
 
