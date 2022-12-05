@@ -1,0 +1,11 @@
+c:\Users\jalex\RUST_OR_BUST\adventofcode\2022\day_1\answer_2022_1\target\debug\deps\getrandom-3f9f701cee3ec9bb.rmeta: C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\lib.rs C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\error.rs C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\util.rs C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\error_impls.rs C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\windows.rs
+
+c:\Users\jalex\RUST_OR_BUST\adventofcode\2022\day_1\answer_2022_1\target\debug\deps\libgetrandom-3f9f701cee3ec9bb.rlib: C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\lib.rs C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\error.rs C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\util.rs C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\error_impls.rs C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\windows.rs
+
+c:\Users\jalex\RUST_OR_BUST\adventofcode\2022\day_1\answer_2022_1\target\debug\deps\getrandom-3f9f701cee3ec9bb.d: C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\lib.rs C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\error.rs C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\util.rs C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\error_impls.rs C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\windows.rs
+
+C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\lib.rs:
+C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\error.rs:
+C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\util.rs:
+C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\error_impls.rs:
+C:\Users\jalex\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.16\src\windows.rs:
