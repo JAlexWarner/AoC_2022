@@ -1,0 +1,11 @@
+C:\Users\jalex\RUST_OR_BUST\adventofcode\AoC_2022\day_4\answer_2022_4\target\debug\deps\ipnet-69b849fdab87890f.rmeta: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\ipext.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\ipnet.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\parser.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\mask.rs
+
+C:\Users\jalex\RUST_OR_BUST\adventofcode\AoC_2022\day_4\answer_2022_4\target\debug\deps\libipnet-69b849fdab87890f.rlib: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\ipext.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\ipnet.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\parser.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\mask.rs
+
+C:\Users\jalex\RUST_OR_BUST\adventofcode\AoC_2022\day_4\answer_2022_4\target\debug\deps\ipnet-69b849fdab87890f.d: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\ipext.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\ipnet.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\parser.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\mask.rs
+
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\lib.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\ipext.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\ipnet.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\parser.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipnet-2.8.0\src\mask.rs:

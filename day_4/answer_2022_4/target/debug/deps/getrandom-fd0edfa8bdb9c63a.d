@@ -1,0 +1,11 @@
+C:\Users\jalex\RUST_OR_BUST\adventofcode\AoC_2022\day_4\answer_2022_4\target\debug\deps\getrandom-fd0edfa8bdb9c63a.rmeta: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\error.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\util.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\error_impls.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\windows.rs
+
+C:\Users\jalex\RUST_OR_BUST\adventofcode\AoC_2022\day_4\answer_2022_4\target\debug\deps\libgetrandom-fd0edfa8bdb9c63a.rlib: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\error.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\util.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\error_impls.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\windows.rs
+
+C:\Users\jalex\RUST_OR_BUST\adventofcode\AoC_2022\day_4\answer_2022_4\target\debug\deps\getrandom-fd0edfa8bdb9c63a.d: C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\lib.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\error.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\util.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\error_impls.rs C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\windows.rs
+
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\lib.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\error.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\util.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\error_impls.rs:
+C:\Users\jalex\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.10\src\windows.rs:

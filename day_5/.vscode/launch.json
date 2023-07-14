@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug",
+            "program": "C:/Users/jalex/RUST_OR_BUST/adventofcode/AoC_2022/day_5/advent_day_5/target/debug/advent_day_5.exe",
+            "args": [],
+            "cwd": "C:/Users/jalex/RUST_OR_BUST/adventofcode/AoC_2022/day_5/advent_day_5"
+        }
+    ]
+}
